@@ -7,8 +7,3 @@ Flappy Bird is a game where you tap the screen to make the bird fly. If your bir
 Press **Space Bar** to Fly the Bird
 
 
-## Sneak Peek
-
-![](https://github.com/Shivank19/Flappy-Birds/blob/gh-pages/ScreenShots/1.png)
-
-![](https://github.com/Shivank19/Flappy-Birds/blob/gh-pages/ScreenShots/2.png)
