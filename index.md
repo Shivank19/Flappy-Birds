@@ -9,4 +9,5 @@ Press **Space Bar** to Fly the Bird
 
 ## Sneak Peak
 
-![](https://github.com/Shivank19/Flappy-Birds/blob/master/ScreenShots/1.png) | ![](https://github.com/Shivank19/Flappy-Birds/blob/master/ScreenShots/2.png)
+![](https://github.com/Shivank19/Flappy-Birds/blob/gh-pages/ScreenShots/1.png)
+![](https://github.com/Shivank19/Flappy-Birds/blob/gh-pages/ScreenShots/2.png)
