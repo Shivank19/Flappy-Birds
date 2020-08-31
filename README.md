@@ -1,5 +1,5 @@
 # Flappy-Birds
-The flappy birds game clone made in python.
+A Flappy Birds Clone in Python
 
 ## Sneak Peek 
 
